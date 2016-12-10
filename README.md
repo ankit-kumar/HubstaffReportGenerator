@@ -33,11 +33,11 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 ## Acknowledgments
 Thanks to the developers behind the following nuget packages
 which  have been used in the application.
--ClosedXML
--CommandLineParser
--CsvHelper
--DocumentFormat.OpenXml
--HtmlAgilityPack
--Newtonsoft.Json
--RestSharp
+- ClosedXML
+- CommandLineParser
+- CsvHelper
+- DocumentFormat.OpenXml
+- HtmlAgilityPack
+- Newtonsoft.Json
+- RestSharp
 
